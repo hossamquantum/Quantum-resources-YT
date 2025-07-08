@@ -22,6 +22,11 @@ https://quantum.ibm.com/
 
 ممكن تسجل عشان تبعت للكوانتم كمبيوتر و ليك ١٠ دقائق في الشهر
 
+## IBM Quantum Platform
+https://quantum.cloud.ibm.com/
+
+كل كورسات الكوانتم بداية من ١/٧/٢٠٢٥ هتتنقل هنا
+
 ## Amazon BraKet
 https://github.com/amazon-braket/amazon-braket-examples
 
