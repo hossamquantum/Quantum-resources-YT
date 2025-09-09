@@ -32,3 +32,7 @@ https://github.com/amazon-braket/amazon-braket-examples
 
 لغة أمازون لبرمجة الكوانتم كمبيوتر
 
+## Microsoft Quantum Computing Resources 
+https://learn.microsoft.com/en-us/azure/quantum/further-reading-qdk#microsoft-quantum-computing-resources
+
+في لغة Q# لل Quantum Computingو لكنها مش بتستخدم كتير.
