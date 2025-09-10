@@ -27,6 +27,11 @@ https://quantum.cloud.ibm.com/
 
 كل كورسات الكوانتم بداية من ١/٧/٢٠٢٥ هتتنقل هنا
 
+## Qiskit Developer Certification 
+https://www.ibm.com/quantum/blog/qiskit-v2x-developer-certification
+
+شهادة من IBM أنك تكون Qiskit developer ممكن تعرفك ايه اللي محتاج تركز عليه عشان تشتغل في المجال.
+
 ## Amazon BraKet
 https://github.com/amazon-braket/amazon-braket-examples
 
